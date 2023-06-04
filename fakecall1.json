@@ -3,10 +3,10 @@
     {
       "AdMobId": "pub-2849466625918779",
       "NetworkAds": "admob",
-      "BannerAdmob": "ca-app-pub-2849466625918779/3818883284",
-      "BannerFacebook": "",
-      "InterstitialAdmob": "ca-app-pub-2849466625918779/7467356396",
-      "InterstitialFacebook": ""
+      "BannerAdmob": "",
+      "BannerFacebook": "634669734953883_634670488287141",
+      "InterstitialAdmob": "",
+      "InterstitialFacebook": "634669734953883_634670164953840"
     }
   ]
 }
